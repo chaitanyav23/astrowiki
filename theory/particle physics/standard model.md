@@ -8,8 +8,8 @@ nav_order: 1
 
 #### Standard Model
 
-<br />
 ## Overview
+<br />
 
 The [Standard Model](#standard-model) of particle physics is the theory describing three of the four known fundamental forces (electromagnetic, weak and strong interactions – excluding gravity) in the universe and classifying all known elementary particles. 
 
